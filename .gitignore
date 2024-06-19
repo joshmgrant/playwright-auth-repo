@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+!.env.development.local.example
+components.d.ts
+.idea
+*.tsbuildinfo
+playwright-report/**/*
+tests/e2e/playwright-report/**/*
+test-results/**/*
+
+playwright/.auth
